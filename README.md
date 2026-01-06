@@ -1,1 +1,1 @@
-# sql-demo
+# today is first demo class
